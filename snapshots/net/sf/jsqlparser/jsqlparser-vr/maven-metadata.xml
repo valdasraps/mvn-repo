@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>net.sf.jsqlparser</groupId>
+  <artifactId>jsqlparser-vr</artifactId>
+  <versioning>
+    <versions>
+      <version>0.8.4-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20130822124828</lastUpdated>
+  </versioning>
+</metadata>
